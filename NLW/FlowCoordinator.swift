@@ -1,10 +1,3 @@
-//
-//  FlowCoordinator.swift
-//  NLW
-//
-//  Created by DAVI PEREIRA DA SILVA on 09/12/24.
-//
-
 import Foundation
 import UIKit
 

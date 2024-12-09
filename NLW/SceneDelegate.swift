@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  NLW
-//
-//  Created by DAVI PEREIRA DA SILVA on 09/12/24.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
@@ -39,4 +32,3 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     func sceneDidEnterBackground(_ scene: UIScene) {
     }
 }
-
